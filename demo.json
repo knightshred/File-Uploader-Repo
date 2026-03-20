@@ -1,0 +1,16 @@
+{
+  "name": "Howlers devnet video",
+  "symbol": "HDV",
+  "description": "A video Token on Solana",
+  "image": "https://github.com/knightshred/File-Uploader-Repo/blob/main/timeline_1.gif",
+  "animation_url": "https://github.com/knightshred/File-Uploader-Repo/blob/main/Timeline_1.mp4",
+  "properties": {
+    "category": "video",
+    "files": [
+      {
+        "uri": "https://github.com/knightshred/File-Uploader-Repo/blob/main/Timeline_1.mp4",
+        "type": "video/mp4"
+      }
+    ]
+  }
+}
